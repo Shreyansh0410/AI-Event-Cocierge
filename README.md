@@ -5,7 +5,7 @@ A full-stack AI-powered platform that takes a natural language description of a 
 ---
 
 ## Live Demo
-🔗 [https://ai-event-cocierge-beige.vercel.app/](#) 
+🔗 [https://ai-event-cocierge-beige.vercel.app](#) 
 
 ---
 
