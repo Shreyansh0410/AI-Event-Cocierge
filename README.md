@@ -5,7 +5,7 @@ A full-stack AI-powered platform that takes a natural language description of a 
 ---
 
 ## Live Demo
-🔗 [your-deployed-url.vercel.app](#) ← replace after deployment
+🔗 [https://ai-event-cocierge-beige.vercel.app/](#) 
 
 ---
 
